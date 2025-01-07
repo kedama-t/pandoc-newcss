@@ -1,0 +1,10 @@
+[project]
+name = "pandoc-newcss"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "go-task-bin>=3.40.1",
+    "pypandoc-binary>=1.14",
+]
