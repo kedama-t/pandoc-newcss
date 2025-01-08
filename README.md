@@ -12,3 +12,5 @@ Convert Markdown(`*.md`) file to html, styled with [new.css](https://newcss.net/
 uv sync
 uv run task convert -- sample.md
 ```
+## Sample
+https://kedama-t.github.io/pandoc-newcss/
